@@ -1,0 +1,27 @@
+{
+  "name": "WRO_FER_S_15_REACT_Furry_Game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^4.20.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "build": "webpack --mode production ./js/app.js --output ./js/out.js",
+    "dev": "webpack --mode development ./js/app.js --output ./js/out.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmatyjas/WRO_FER_S_15_REACT_Furry_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmatyjas/WRO_FER_S_15_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/pmatyjas/WRO_FER_S_15_REACT_Furry_Game#readme"
+}
