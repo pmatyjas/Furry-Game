@@ -1,7 +1,13 @@
-# Furry-Game
+<h1> Furry-Game </h1>
 
-Game created using Javascript, HTML, CSS.
+<h3> General Information </h3>
+<p> Game created using Vanilla Javascript. </p>
+<p> Controling  Furry using keyboards arrows and collecing coins.</p>
 
-Controling  Furry using keyboards arrows and collecing coins.
+https://pmatyjas.github.io/Furry-Game/
 
+<h3> Technologies </h3>
+<p> JavaScript </p>
 
+<h3> Screenshot </h3>
+![Page prtscr](./images/furrygame.jpg)
