@@ -4,7 +4,7 @@
 <p> Game created using Vanilla Javascript. </p>
 <p> Controling  Furry using keyboards arrows and collecing coins.</p>
 
-https://pmatyjas.github.io/Furry-Game/
+<p> https://pmatyjas.github.io/Furry-Game/ </p>
 
 <h3> Technologies </h3>
 <p> JavaScript </p>
@@ -13,4 +13,5 @@ https://pmatyjas.github.io/Furry-Game/
 <p> JavaScript </p>
 
 <h3> Screenshot </h3>
-![Furry](./images/furrygame.jpg)
+
+![furry](./images/furrygame.jpg)
